@@ -23,19 +23,19 @@ You see everything it finds, and you decide what makes sense.
 
 # Supported methods
 
--Caesar cipher (all shifts)
+Caesar cipher (all shifts)
 
--ROT13
+- ROT13
 
--Base64
+- Base64
 
--Vigenère (common keys)
+- Vigenère (common keys)
 
--XOR (simple keys)
+- XOR (simple keys)
 
--Plain / readable text detection
+- Plain / readable text detection
 
--Perfect for spotting weak or classic obfuscation techniques fast.
+- Perfect for spotting weak or classic obfuscation techniques fast.
 
 ---
 
