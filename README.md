@@ -1,8 +1,9 @@
 # cipher-crack
+
 Cipher_crack is a lightweight and practical tool designed to detect and automatically try multiple decryption/obfuscation techniques on a given text.
 
 It’s built for CTFs, quick analysis, pentesting, light reversing, or curiosity-driven hacking, without heavy dependencies or unnecessary resource usage.
-Works smoothly even on low-RAM devices, small VPSs, or minimal Linux setups.
+Works smoothly even on low-RAM devices, small VPSs, or minimal Linux setups
 
 ---
 
@@ -73,10 +74,10 @@ Caesar cipher (all shifts)
 
 - No assumptions
 
-Built to give you answers quickly, not overwhelm you with frameworks.
+Built to give you answers quickly, not overwhelm you with frameworks..
 
 **Disclaimer**
 
 cipher_crack does not aim to break strong cryptography.
-It focuses on classic ciphers, weak implementations, and common obfuscation techniques—exactly what you’ll find in CTFs and real-world apps more often than people admit
+It focuses on classic ciphers, weak implementations, and common obfuscation techniques—exactly what you’ll find in CTFs and real-world apps more often than people admit.
 
