@@ -23,15 +23,19 @@ You see everything it finds, and you decide what makes sense.
 
 # Supported methods
 
-| Method         | Description                                                                 | Example                                            |
-| -------------- | --------------------------------------------------------------------------- | -------------------------------------------------- |
-| **Caesar**     | Shift cipher that rotates letters through the alphabet (25 possible shifts) | `Khoor` → `Hello` (shift 3)                        |
-| **ROT13**      | Fixed rotation of 13 characters (self-inverting cipher)                     | `Uryyb` → `Hello`                                  |
-| **Base64**     | Standard Base64 decoding                                                    | `SGVsbG8=` → `Hello`                               |
-| **URL Decode** | Decodes URL-encoded strings                                                 | `Hello%20World` → `Hello World`                    |
-| **Vigenère**   | Polyalphabetic cipher tested with common keys                               | `Rijvs` → `Hello` (key: `KEY`)                     |
-| **XOR**        | XOR operation tested with common short keys                                 | `1b3737...` → `Cooking MC's like a pound of bacon` |
+-Caesar cipher (all shifts)
 
+-ROT13
+
+-Base64
+
+-Vigenère (common keys)
+
+-XOR (simple keys)
+
+-Plain / readable text detection
+
+-Perfect for spotting weak or classic obfuscation techniques fast.
 
 ---
 
