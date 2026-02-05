@@ -43,23 +43,23 @@ Caesar cipher (all shifts)
 
 **Try all methods automatically**
 
-python3 crypto_suite.py "SGVsbG8gV29ybGQ="
+- python3 crypto_suite.py "SGVsbG8gV29ybGQ="
 
 **Decode Base64 specifically**
 
-python3 crypto_suite.py "SGVsbG8=" --method base64
+- python3 crypto_suite.py "SGVsbG8=" --method base64
 
 **Decode ROT13**
 
-python3 crypto_suite.py "Uryyb Jbeyq" --method rot13
+- python3 crypto_suite.py "Uryyb Jbeyq" --method rot13
 
 **Decode Caesar (will try all shifts)**
 
-python3 crypto_suite.py "Khoor Zruog" --method caesar
+- python3 crypto_suite.py "Khoor Zruog" --method caesar
 
 **Decode Vigenère**
 
-python3 crypto_suite.py "Rijvs Asvph" --method vigenere
+- python3 crypto_suite.py "Rijvs Asvph" --method vigenere
 
 ---
 
