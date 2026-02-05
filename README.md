@@ -65,13 +65,13 @@ Caesar cipher (all shifts)
 
 # Design philosophy
 
--Fast
+- Fast
 
--Lightweight
+- Lightweight
 
--Practical
+- Practical
 
--No assumptions
+- No assumptions
 
 Built to give you answers quickly, not overwhelm you with frameworks.
 
