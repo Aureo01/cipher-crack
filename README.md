@@ -76,6 +76,7 @@ Caesar cipher (all shifts)
 Built to give you answers quickly, not overwhelm you with frameworks.
 
 **Disclaimer**
+
 cipher_crack does not aim to break strong cryptography.
 It focuses on classic ciphers, weak implementations, and common obfuscation techniques—exactly what you’ll find in CTFs and real-world apps more often than people admit
 
